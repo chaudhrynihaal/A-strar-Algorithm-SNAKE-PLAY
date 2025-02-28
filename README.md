@@ -1,2 +1,2 @@
-# A-Algorithm
-Multiple Artificial Intelligence algorithms 
+# A-Algorithm 
+This AI-powered Snake Game uses A* Search, Greedy Best-First Search (BFS), and Uniform Cost Search to navigate the snake towards food efficiently while avoiding obstacles. A* ensures an optimal path, Greedy BFS prioritizes the shortest direct route, and Uniform Cost Search selects the least costly path, though it is slower. The AI successfully prevents the snake from dying and achieves high scores in different scenarios.
